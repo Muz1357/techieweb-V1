@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+
+    --color-lblue : #6BC6E4 ;
+    --color-slate : #90a1b9 ;
+}
+
